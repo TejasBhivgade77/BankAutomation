@@ -44,7 +44,7 @@ public class SalaryAccount extends Account {
         }else{
             System.out.println("Your account is frozen due to no transaction activity");
         }
-        return accountBalance;
+        return accountBalance;- 
     }
 
 
